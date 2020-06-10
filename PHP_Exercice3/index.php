@@ -15,7 +15,7 @@
     <title>PHP Partie 8 Exercice 3</title>
 </head>
 <body>
-    <form action="result.php" method="post">^
+    <form action="result.php" method="post">
         <fieldset>
             <legend>Connection :</legend>
             <b style="color:red"><?= $msg ?></b>
