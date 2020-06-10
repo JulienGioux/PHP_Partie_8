@@ -4,7 +4,7 @@
         $msg = 'Coockies existants : Connectez-vous.';
     }
     if (!isset($_COOKIE['id']) || !isset($_COOKIE['pwd'])) {
-        $msg = 'Cookies not set: créé vos identifiants';
+        $msg = 'Cookies not set: créez vos identifiants';
     }
 ?>
 <!DOCTYPE html>
