@@ -12,7 +12,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Partie 8 Exercice 3</title>
+    <title>PHP Partie 8 Exercice 4</title>
 </head>
 <body>
     <form action="result.php" method="post">^
