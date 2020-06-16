@@ -1,5 +1,6 @@
 <?php 
     session_start();
+    var_dump($_SESSION);
     $_SESSION['lastName'] = 'Gioux';
     $_SESSION['firstName'] = 'Julien';
     $_SESSION['age'] = 39;

@@ -7,6 +7,7 @@
         header('Location: index.php');
         exit();
     }
+    var_dump($_SESSION);
 ?>
 <!DOCTYPE html>
 <html lang="fr">
